@@ -1,16 +1,31 @@
-## Hi there 👋
+# 🌟 Lee Dahyun's GitHub
 
-<!--
-**arark2/arark2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<table>
+<tr>
+<td align="center" style="padding:20px;">
+  <a href="https://www.postype.com/@gamennn-12/post/19749868">
+    <img src="https://github.com/user-attachments/assets/960634a4-8e84-4e5e-b25a-5628f89ef4b6" width="120">
+  </a>
+  <br>
+  <a href="https://www.postype.com/@gamennn-12/post/19749868">Playing tag Game Play Link</a>
+</td>
+
+<td align="center" style="padding:20px;">
+  <a href="https://www.postype.com/@gamebbb/post/20497087">
+    <img src="https://github.com/user-attachments/assets/6563978f-a160-4052-b7ff-145d6c96245b" width="120">
+  </a>
+  <br>
+  <a href="https://www.postype.com/@gamebbb/post/20497087">Magical Girl Project Game Play Link</a>
+</td>
+</tr>
+</table>
+
+<br>
+
+- ✉️ everydaywhite@naver.com
+
+
